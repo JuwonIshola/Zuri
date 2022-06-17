@@ -1,0 +1,95 @@
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+   background-color: hsl(0deg 0% 95%);
+}
+.main{
+   width: 50%;
+   margin:auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+  
+}
+/* The Orange design */
+.sedans{
+   background-color: hsl(31, 77%, 52%);
+   height: 60%;
+   padding:30px 20px 10px 30px;
+   box-sizing: border-box;
+   width: 100%;
+}
+
+.image1{
+   padding-bottom: 30px;
+}
+
+#car1{
+   padding-bottom:25px;
+   font-family:Lexend Deca;
+   font-weight: 400;
+   color:white;
+}
+button{
+  margin-top: 40px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  border:none; 
+}
+/* The dark cyan design */
+
+.suv{
+   background-color: hsl(184, 95%, 31%);
+   height: 60%;
+   padding:30px 20px 10px 30px;
+   box-sizing: border-box;
+   width: 100%;
+}
+
+.image2{
+   padding-bottom: 30px;
+}
+
+#car1{
+   padding-bottom:25px;
+   font-family:Lexend Deca;
+   font-weight: 400;
+   color:white;
+}
+button{
+  margin-top: 40px;
+  padding: 10px 20px 10px 20px;
+  border:none; 
+}
+/* for the very dark Cyan */
+.luxury{
+   background-color: hsl(184, 100%, 22%);
+   height: 60%;
+   padding:30px 20px 10px 30px;
+   box-sizing: border-box;
+   width: 100%;
+}
+
+.image3{
+   padding-bottom: 30px;
+}
+
+#car3{
+   padding-bottom:25px;
+   font-family:Lexend Deca;
+   font-weight: 400;
+   color:white;
+}
+button{
+  margin-top: 40px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  border:none; 
+}
+
+
